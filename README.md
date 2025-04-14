@@ -28,7 +28,7 @@
             <ul>
               <li>
                 Clone the repo: 
-                https://github.com/your-username/react-document-scanner-and-state-selector.git
+                https://github.com/yash-dhariwal/Document-Scanner-main.git
               </li>
               <li>
                 Navigate to the project directory:  
